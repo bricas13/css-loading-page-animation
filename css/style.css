@@ -41,6 +41,7 @@ span:nth-child(4),
 span:nth-child(6) {
   animation-delay: 0.6s;
 }
+
 @keyframes animate {
   0% {
     transform: scale(1);
